@@ -1,6 +1,6 @@
 # 🎧 Spotify Songs Analysis with PySpark (1958–2019)
 
-This project explores and analyzes music chart data using **Apache Spark**, focusing on weekly Billboard chart rankings enriched with **Spotify audio features**. The dataset contains over **277,000 entries** and represents **24,000 unique songs** charted between **1958 and 2019**.
+This project explores and analyzes music chart data using **Apache Spark**, focusing on weekly Billboard chart rankings enriched with Spotify audio features. The dataset contains over 277,000 entries and represents 24,000 unique songs charted between 1958 and 2019.
 
 ## 📊 Dataset Overview
 
